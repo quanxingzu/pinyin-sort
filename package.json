@@ -1,0 +1,22 @@
+{
+  "name": "pinyin-grouping",
+  "version": "1.0.8",
+  "description": "用于名称文字的拼音首字母分组",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js"
+  },
+  "author": "TW",
+  "license": "ISC",
+  "dependencies": {
+    "webpack-cli": "^4.7.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.38.1"
+  },
+  "keywords": [],
+  "files": [
+    "lib"
+  ]
+}
